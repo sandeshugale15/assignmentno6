@@ -1,0 +1,31 @@
+{
+    "name": "Apple",
+    "foodGroup": "Fruits",
+    "description": "A crunchy and juicy fruit.",
+    "nutritionalInformation": {
+      "calories": 52,
+      "macronutrients": {
+        "proteins": 0.3,
+        "fats": 0.2,
+        "carbohydrates": 14
+      },
+      "micronutrients": {
+        "vitamins": "A, C",
+        "minerals": "Potassium"
+      },
+      "fiber": 2.4,
+      "sodium": 1,
+      "cholesterol": 0
+    },
+    "servingSize": "1 medium apple (182g)",
+    "allergens": [],
+    "ingredients": ["Apple"],
+    "preparationMethods": "Fresh",
+    "certifications": [],
+    "countryOfOrigin": "Various",
+    "brandOrManufacturer": "Various",
+    "dietaryRestrictions": ["Vegetarian", "Vegan"],
+    "healthBenefits": "Good source of vitamin C and dietary fiber.",
+    "bestPractices": "Store in a cool, dry place."
+  }
+  
